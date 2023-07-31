@@ -1,0 +1,30 @@
+{
+  "name": "projeto16-boardcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brenenho/projeto16-boardcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brenenho/projeto16-boardcamp/issues"
+  },
+  "homepage": "https://github.com/Brenenho/projeto16-boardcamp#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "joi": "^17.9.2",
+    "pg": "^8.11.1",
+    "postgres": "^3.3.5",
+    "uuid": "^9.0.0"
+  }
+}
